@@ -1,4 +1,3 @@
-// FormBuilder.js
 import React, { useState } from "react";
 
 const FormBuilder = () => {
@@ -57,11 +56,11 @@ const FormBuilder = () => {
     );
   };
 
-  // When form is submitted, you could send this config to a back end or generate code
+  
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Form configuration:", fields);
-    // Example: Send the fields state to your back-end API to generate code.
+    
   };
 
   return (
