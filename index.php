@@ -8,7 +8,7 @@
 
 <html>
 <head>
-	<title>code(for)^2m</title>
+	<title>code for form</title>
 	 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 
