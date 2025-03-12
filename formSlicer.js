@@ -1,4 +1,3 @@
-// formSlice.js
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
@@ -19,7 +18,7 @@ const formSlice = createSlice({
         Object.assign(field, fieldData);
       }
     },
-    // Additional reducers such as removeField can be added as needed
+  
   },
 });
 
